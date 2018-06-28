@@ -1,6 +1,7 @@
-V-REP simulator for the da Vinci Research Kit robotic platform
+V-REP simulator for the da Vinci Research Kit (dVRK)
 ====================
 This repository has code related to daVinci Research Kit (dVRK) V-REP symulator.
+
 **Under development!!!**
 
 # Install
