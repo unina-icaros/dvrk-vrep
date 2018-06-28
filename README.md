@@ -5,7 +5,7 @@ This repository has code related to daVinci Research Kit (dVRK) V-REP symulator.
 
 # Install
 The repository contains both some V-REP scenes and ROS code to control the simulated dvrk-ros
-* Download V-REP from the official webpage
+* Download V-REP from the official webpage: http://www.coppeliarobotics.com/
 * To use the symulator with ROS download and compile the V-REP ROS interface as described in: https://github.com/CoppeliaRobotics/v_repExtRosInterface
 
 # List of Folders:
@@ -19,5 +19,5 @@ The repository contains both some V-REP scenes and ROS code to control the simul
   
 # References  
 ---
-### [1]  G.A. Fontanelli, M. Selvaggio, M. Ferro, F. Ficuciello, M. Vendittelli, B. Siciliano, "A V-REP Simulator for the da Vinci Research Kit Robotic Platform", BioRob, 2018
+#### [1]  G.A. Fontanelli, M. Selvaggio, M. Ferro, F. Ficuciello, M. Vendittelli, B. Siciliano, "A V-REP Simulator for the da Vinci Research Kit Robotic Platform", BioRob, 2018
 ---
