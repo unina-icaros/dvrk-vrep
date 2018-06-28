@@ -17,7 +17,7 @@ The repository contains both some V-REP scenes and ROS code to control the simul
   * Contains the ROS code of some application scenes described in @fontanelli2018 
   
   
-  
+# References  
 ---
 references:
 - id: fontanelli2018
@@ -25,14 +25,19 @@ references:
   author:
   - family: Fontanelli
     given: Giuseppe Andrea
+  author:
   - family: Selvaggio
     given: Mario
+  author:
   - family: Ferro
     given: Marco
+  author:
   - family: Ficuciello
     given: Fanny
+  author:
   - family: Vendittelli
     given: Marilena
+  author:
   - family: Siciliano
     given: Bruno
   container-title: BioRob
