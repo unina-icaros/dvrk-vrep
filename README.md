@@ -18,6 +18,6 @@ The repository contains both some V-REP scenes and ROS code to control the simul
   
   
 # References  
-====================
+
 [1]  G.A. Fontanelli, M. Selvaggio, M. Ferro, F. Ficuciello, M. Vendittelli, B. Siciliano, *"A V-REP Simulator for the da Vinci Research Kit Robotic Platform"*, BioRob, 2018
 
