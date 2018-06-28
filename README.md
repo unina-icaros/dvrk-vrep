@@ -39,10 +39,10 @@ If you use this code in an academic context, please cite the following:
 
 Copyright (C) 2017-2018 Philipp Foehn, Robotics and Perception Group, University of Zurich
 
-The RPG MPC repository provides packages that are intended to be used with [RPG Quadrotor Control](https://github.com/uzh-rpg/rpg_quadrotor_control) and [ROS](http://www.ros.org/). 
+The RPG MPC repository provides packages that are intended to be used with [ROS](http://www.ros.org/). 
 This code has been tested with ROS kinetic on Ubuntu 16.04.
 This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
-For a commercial license, please contact [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html).
+For a commercial license, please contact [Giuseppe Andrea Fontanelli](giuseppeandrea.fontanelli@unina.it).
 
 ```
 This program is free software: you can redistribute it and/or modify
