@@ -10,38 +10,14 @@ The repository contains both some V-REP scenes and ROS code to control the simul
 
 # List of Folders:
 * V-REP_scenes **[under development]** 
-  * Contains the main dVRK scene (dVRK) and five different applications described in @fontanelli2018
+  * Contains the main dVRK scene (dVRK) and five different applications described in [1]
 * V-REP_models **[under development]**
   * Contains some V-REP models of the robots (complete dVRK, PSM, ECM, standard needle driver tool, some phantoms)
 * V-REP_catkin_ws **[under development]**
-  * Contains the ROS code of some application scenes described in @fontanelli2018 
+  * Contains the ROS code of some application scenes described in [1]
   
   
 # References  
 ---
-references:
-- id: fontanelli2018
-  title: A V-REP Simulator for the da Vinci Research Kit Robotic Platform
-  author:
-  - family: Fontanelli
-    given: Giuseppe Andrea
-  author:
-  - family: Selvaggio
-    given: Mario
-  author:
-  - family: Ferro
-    given: Marco
-  author:
-  - family: Ficuciello
-    given: Fanny
-  author:
-  - family: Vendittelli
-    given: Marilena
-  author:
-  - family: Siciliano
-    given: Bruno
-  container-title: BioRob
-  type: article-conference
-  issued:
-    year: 2018
+[1]  G.A. Fontanelli, M. Selvaggio, M. Ferro, F. Ficuciello, M. Vendittelli, B. Siciliano, "A V-REP Simulator for the da Vinci Research Kit Robotic Platform", BioRob, 2018
 ---
