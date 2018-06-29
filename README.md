@@ -37,7 +37,7 @@ If you use this code in an academic context, please cite the following:
 
 ## License
 
-Copyright (C) 2017-2018 Philipp Foehn, Robotics and Perception Group, University of Zurich
+Copyright (C) 2017-2018 Giuseppe Andrea Fontanelli, ICAROS center, University of Naples Federico II
 
 The RPG MPC repository provides packages that are intended to be used with [ROS](http://www.ros.org/). 
 This code has been tested with ROS kinetic on Ubuntu 16.04.
