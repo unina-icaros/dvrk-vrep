@@ -20,18 +20,28 @@ The repository contains both some V-REP scenes and ROS code to control the simul
 * V-REP_catkin_ws **[under development]**
   * Contains the ROS code of some application scenes described in [1]
   
-[1]  G.A. Fontanelli, M. Selvaggio, M. Ferro, F. Ficuciello, M. Vendittelli, B. Siciliano, *"A V-REP Simulator for the da Vinci Research Kit Robotic Platform"*, BioRob, 2018
+[1]  G. A. Fontanelli, M. Selvaggio, M. Ferro, F. Ficuciello, M. Vendittelli and B. Siciliano, "A V-REP Simulator for the da Vinci Research Kit Robotic Platform," 2018 7th IEEE International Conference on Biomedical Robotics and Biomechatronics (Biorob), Enschede, 2018, pp. 1056-1061, doi: 10.1109/BIOROB.2018.8487187, URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8487187&isnumber=8487180
   
 ## Publication
 If you use this code in an academic context, please cite the following:
 
 ```
-@article{Fontanelli2018
-  author = {Fontanelli, Giuseppe Andrea and Selvaggio, Mario and Ferro, Marco and Ficuciello, Fanny and Vendittelli, Marilena and Siciliano, Bruno},
-  title = {A V-REP Simulator for the da Vinci Research Kit Robotic Platform},
-  conference = {BioRob},
-  year = {2018}
-}
+@INPROCEEDINGS{8487187,
+author={G. A. Fontanelli and M. Selvaggio and M. Ferro and F. Ficuciello 
+and M. Vendiuelli and B. Siciliano},
+booktitle={2018 7th IEEE International Conference on Biomedical Robotics 
+and Biomechatronics (Biorob)},
+title={A V-REP Simulator for the da Vinci Research Kit Robotic Platform},
+year={2018},
+volume={},
+number={},
+pages={1056-1061},
+keywords={Robot sensing systems;Electronic 
+countermeasures;Kinematics;Surgery;Manipulators;Solid modeling},
+doi={10.1109/BIOROB.2018.8487187},
+ISSN={2155-1782},
+month={Aug},}
+
 ```
 
 
@@ -59,7 +69,6 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
-This work depends on the ACADO Toolkit, developed by the Optimization in Engineering Center (OPTEC) under supervision of Moritz Diehl. Licensing detail can be found on the [ACADO licensing page](http://acado.github.io/licensing.html). It is released under GNU Lesser General Public License as published by the Free Software Foundation, version 3.
-ACADO uses qpOASES by Hans Joachim Ferreau et al., released under GPL v2.1.
+
 
 
