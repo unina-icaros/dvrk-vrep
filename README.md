@@ -28,7 +28,7 @@ If you use this code in an academic context, please cite the following:
 ```
 @INPROCEEDINGS{8487187,
 author={G. A. Fontanelli and M. Selvaggio and M. Ferro and F. Ficuciello 
-and M. Vendiuelli and B. Siciliano},
+and M. Vendittelli and B. Siciliano},
 booktitle={2018 7th IEEE International Conference on Biomedical Robotics 
 and Biomechatronics (Biorob)},
 title={A V-REP Simulator for the da Vinci Research Kit Robotic Platform},
